@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DragosMCN
 - 👀 I’m interested in games and apps
 - 🌱 I’m currently learning coding
-- 📫 How to reach me dragos.mcn04 on instagram
+- 📫 How to reach me dragos.mcn4 on instagram
 
 <!---
 DragosMCN/DragosMCN is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
